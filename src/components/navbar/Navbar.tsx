@@ -2,7 +2,7 @@ import  "/src/assets/style/w3.css"
 
 function Navbar() {
   return (
-    <>
+    <> 
           <!-- Navbar -->
     <div class="w3-top">
       <div class="w3-bar w3-black w3-card">
